@@ -1,3 +1,6 @@
+# Le Cube
+A test 2d platformer HaxeFlixel project with custom bullet and physics systems.
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
