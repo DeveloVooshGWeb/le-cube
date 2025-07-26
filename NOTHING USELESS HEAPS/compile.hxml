@@ -1,0 +1,7 @@
+-cp source
+-lib heaps
+-lib hldx
+-D windowSize=1280x720
+-hl game.hl
+-main Main
+-debug
